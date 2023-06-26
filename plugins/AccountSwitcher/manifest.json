@@ -1,0 +1,14 @@
+{
+    "name": "Account Switcher",
+    "description": "extends account switcher limit to 100",
+    "authors": [
+        {
+            "name": "sapphire",
+            "id": "757982547861962752"
+        }
+    ],
+    "main": "index.ts",
+    "vendetta": {
+        "icon": "ic_switch_accounts"
+    }
+}
