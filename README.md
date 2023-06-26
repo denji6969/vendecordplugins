@@ -1,4 +1,4 @@
-# [Go to repo](https://github.com/aeongdesu/vdplugins)
+# [Go to repo](https://github.com/aeongdesu/vdplugi)
 
 ## proxied
 - [BypassNSFWGate](https://vd-plugins.github.io/proxy/aeongdesu.github.io/vdplugins/BypassNSFWGate)
