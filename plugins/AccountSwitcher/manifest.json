@@ -1,10 +1,10 @@
 {
     "name": "Account Switcher",
-    "description": "extends account switcher limit to 100",
+    "description": "Extends Account switcher limit to 100 Accounts.",
     "authors": [
         {
-            "name": "sapphire",
-            "id": "757982547861962752"
+            "name": "@fahadamin",
+            "id": "480597598953275424"
         }
     ],
     "main": "index.ts",
