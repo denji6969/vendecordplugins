@@ -1,4 +1,3 @@
-// thanks cyn
 import { findByProps } from "@vendetta/metro"
 import { showConfirmationAlert } from "@vendetta/ui/alerts"
 
@@ -13,7 +12,7 @@ export const onUnload = () => showConfirmationAlert({
     title: "Hold on",
     content: `Disabling plugin will *remove* accounts to ${DEFAULT_VALUE} (default). Are you sure?`,
     onConfirm: () => accounts.MAX_ACCOUNTS = DEFAULT_VALUE,
-    confirmText: "YEP",
-    cancelText: "COPE",
+    confirmText: "YES",
+    cancelText: "Cancel",
     isDismissable: false
 })
