@@ -1,11 +1,5 @@
 export default [
   {
-    version: 'End Of Life (NO MAJOR UPDATE)',
-    patch: [
-      'This plugin will not be updated anymore in term MAJOR UPDATE, until further infos.',
-    ]
-  },
-  {
     version: 'v0.1.3',
     patch: [
       "Fixed Crashing Issue when Embedded Links got Sent on Chat",
