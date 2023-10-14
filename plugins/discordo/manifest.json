@@ -1,0 +1,14 @@
+{
+    "name": "Discordo",
+    "description": "Plays the Discordo sound when you open the app.",
+    "authors": [
+        {
+            "name": "@fahadamin",
+            "id": "480597598953275424"
+        }
+    ],
+    "main": "index.ts",
+    "vendetta": {
+        "icon": "ic_settings_boost_24px"
+    }
+}
