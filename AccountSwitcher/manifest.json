@@ -1,1 +1,1 @@
-{"name":"Account Switcher","description":"extends account switcher limit to 100","authors":[{"name":"sapphire","id":"757982547861962752"}],"main":"index.js","vendetta":{"icon":"ic_switch_accounts"},"hash":"48673095d64dba256f89342824da394e1664520926857c630399d6c2d058350e"}
+{"name":"Account Switcher","description":"Extends Account switcher limit to 100 Accounts.","authors":[{"name":"@fahadamin","id":"480597598953275424"}],"main":"index.js","vendetta":{"icon":"ic_switch_accounts"},"hash":"48673095d64dba256f89342824da394e1664520926857c630399d6c2d058350e"}
