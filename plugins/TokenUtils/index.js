@@ -6,7 +6,7 @@ import { findInReactTree } from "@vendetta/utils";
 import { setString } from "@vendetta/metro/common/clipboard";
 import { before as patchBefore } from "@vendetta/patcher";
 import { showToast } from "@vendetta/ui/toasts";
-import { encode as encodeTok, characters2 } from "../../common/numberBase64";
+import { encode as encodeTok, characters2 } from "./common/numberBase64";
 const {
 	meta: { resolveSemanticColor },
 } = findByProps("colors", "meta");
