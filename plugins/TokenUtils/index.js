@@ -1,4 +1,4 @@
-import * as common from "../../common";
+import * as common from "./common";
 import { semanticColors } from "@vendetta/ui";
 import { registerCommand } from "@vendetta/commands";
 import { findByStoreName, findByProps } from "@vendetta/metro";
