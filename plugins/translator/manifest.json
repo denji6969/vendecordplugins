@@ -1,14 +1,10 @@
 {
-    "name": "Dislate Lit",
+    "name": "Translator",
     "description": "Translates text into a desired language.",
     "authors": [
         {
-            "name": "Acquite <3",
-            "id": "581573474296791211"
-        },
-        {
-            "name": "sapphire :>",
-            "id": "757982547861962752"
+            "name": "@fahadamin",
+            "id": "480597598953275424"
         }
     ],
     "main": "src/index.tsx",
