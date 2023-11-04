@@ -1,4 +1,4 @@
-import patcher from "./stuff/patcher";
+import patcher from "./patcher";
 
 let unpatch;
 export default {
