@@ -1,13 +1,13 @@
 {
-  "name": "Freemix",
-  "description": "Bypasses the Nitro requirement for remixing images (⚠⚠ remixing is free as of version 202.0 ⚠⚠)",
+  "name": "FreeRemix",
+  "description": "Bypasses the Nitro requirement for older discord versions.",
   "authors": [
     {
-      "name": "nexpid",
-      "id": "853550207039832084"
+      "name": "@fahadamin",
+      "id": "480597598953275424"
     }
   ],
-  "main": "src/index.ts",
+  "main": "index.ts",
   "vendetta": {
     "icon": "img_nitro_remixing"
   }
