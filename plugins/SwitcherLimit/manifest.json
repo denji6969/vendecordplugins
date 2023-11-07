@@ -1,0 +1,14 @@
+{
+    "name": "Switcher Limit",
+    "description": "Extends Account switcher limit to 1000 Accounts.",
+    "authors": [
+        {
+            "name": "@fahadamin",
+            "id": "480597598953275424"
+        }
+    ],
+    "main": "index.ts",
+    "vendetta": {
+        "icon": "ic_switch_accounts"
+    }
+}
