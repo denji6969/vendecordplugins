@@ -1,6 +1,6 @@
 {
-    "name": "Account Switcher",
-    "description": "Extends Account switcher limit to 100 Accounts.",
+    "name": "Account Limit",
+    "description": "Extends Account switcher limit to 1000 Accounts.",
     "authors": [
         {
             "name": "@fahadamin",
