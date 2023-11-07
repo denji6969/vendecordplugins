@@ -1,1 +1,1 @@
-{"name":"Account Switcher","description":"Extends Account switcher limit to 100 Accounts.","authors":[{"name":"@fahadamin","id":"480597598953275424"}],"main":"index.js","vendetta":{"icon":"ic_switch_accounts"},"hash":"c2e1660a43c1ff109f7086a6a7516403521e7648ff8ff08a88637219b8ee76c1"}
+{"name":"Account Limit","description":"Extends Account switcher limit to 1000 Accounts.","authors":[{"name":"@fahadamin","id":"480597598953275424"}],"main":"index.js","vendetta":{"icon":"ic_switch_accounts"},"hash":"c2e1660a43c1ff109f7086a6a7516403521e7648ff8ff08a88637219b8ee76c1"}
