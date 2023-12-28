@@ -8,7 +8,7 @@ import { PluginsFullJson } from "../../types";
 import { General, Search } from "@vendetta/ui/components";
 import { pluginsURL } from "../..";
 import { showToast } from "@vendetta/ui/toasts";
-import { SuperAwesomeIcon, openSheet } from "./stuff/types";
+import { SuperAwesomeIcon, openSheet } from "../stuff/types";
 import { safeFetch } from "@vendetta/utils";
 import { getChanges, updateChanges } from "../../stuff/pluginChecker";
 import PluginThing from "../PluginThing";
