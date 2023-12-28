@@ -1,14 +1,14 @@
 import { General } from "@vendetta/ui/components";
 import { PluginsFullJson } from "../types";
 import ScuffedPluginCard from "./ScuffedPluginCard";
-import CustomBadgeTag from "../../../../stuff/components/CustomBadgeTag";
-import { SimpleText } from "../../../../stuff/types";
+import CustomBadgeTag from "./stuff/components/CustomBadgeTag";
+import { SimpleText } from "./stuff/types";
 import { getAssetIDByName } from "@vendetta/ui/assets";
 import { plugins } from "@vendetta/plugins";
 import { React, clipboard, url } from "@vendetta/metro/common";
 import { showToast } from "@vendetta/ui/toasts";
 import { installPlugin, removePlugin } from "@vendetta/plugins";
-import SmartMention from "../../../../stuff/components/SmartMention";
+import SmartMention from "./stuff/components/SmartMention";
 import { matchGithubLink, properLink, refetchPlugin } from "../stuff/util";
 import usePlugin from "./hooks/usePlugin";
 
