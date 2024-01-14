@@ -4,8 +4,8 @@ import { getAssetIDByName } from "@vendetta/ui/assets";
 import { Button, Forms, General } from "@vendetta/ui/components";
 import { showToast } from "@vendetta/ui/toasts";
 
-import SmartMention from "../../../../stuff/components/SmartMention";
-import { openSheet, SimpleText } from "../../../../stuff/types";
+import SmartMention from "../stuff/components/SmartMention";
+import { openSheet, SimpleText } from "../stuff/types";
 import { vstorage } from "..";
 import ChooseSettingSheet from "../components/sheets/ChooseSettingSheet";
 
