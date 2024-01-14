@@ -1,7 +1,7 @@
 import { after } from "@vendetta/patcher";
 import { semanticColors } from "@vendetta/ui";
 
-import { resolveSemanticColor } from "../../../../stuff/types";
+import { resolveSemanticColor } from "../stuff/types";
 
 export default function () {
   const patches = new Array<() => void>();
