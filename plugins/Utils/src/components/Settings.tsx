@@ -1,6 +1,6 @@
 import { General } from "@vendetta/ui/components";
 
-import { BetterTableRowGroup, SimpleText } from "../../../../stuff/types";
+import { BetterTableRowGroup, SimpleText } from "../../../stuff/types";
 import { version } from "..";
 import modules from "../modules";
 import { Module, moduleCategoryMap } from "../stuff/Module";
